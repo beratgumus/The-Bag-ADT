@@ -1,7 +1,7 @@
-# The-Bag-ADT
-Bag data structures
-<i>
-The Bag ADT
+# The-Bag-ADT<br>
+Bag data structures<br>
+The Bag ADT<br>
+<br>
 Write an implementation for data structure Bag as a Java class, which is similar to a set, but it
 may contain several instances of the same member. For example, {'to', 'be', 'or', 'not', 'to', 'be'}
 is a bag of words, which is equal to {'be', 'be', 'not', 'or', 'to', 'to'} (since order of members is
@@ -32,15 +32,5 @@ it is present; otherwise returns false.<br>
  toString() : Returns a string that displays the elements in the bag.<br>
 Please write a Test program (a separate Java class) proves that your container(bag) works
 properly.
-<i>
-<br><br>
-<i>
-&nbsp;&nbsp;&nbsp;&nbsp; 0. Exit<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Solving the mathematical equation<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 2. Drawing the diamond shape<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 3. Printing keybord inputs in reverse<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 4. Finding the second smallest element<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 5. Distinct random number generation<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 6. About<br>
-Enter your selection : 
-</i>
+
+
