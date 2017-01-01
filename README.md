@@ -1,6 +1,5 @@
 # The-Bag-ADT<br>
 
-<bold>----> IN PROGRESS <---- <bold><br><br>
 Bag data structures<br>
 The Bag ADT<br>
 <br>
