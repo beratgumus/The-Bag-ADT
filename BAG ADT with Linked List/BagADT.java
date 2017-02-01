@@ -124,7 +124,6 @@ public class BagADT<E>
             {
                 elementsize = current.getValue();
                 break;
-
             }
 
             current = current.getNext();
