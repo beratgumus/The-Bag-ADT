@@ -240,6 +240,7 @@ public class Bag<E extends Comparable<E>> {
             if(bag.root.hasRight())
                 printInorder(new Bag(bag.root.getRight()));
         }
+        
     }
 
     public String toString()
