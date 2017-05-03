@@ -11,6 +11,9 @@ public class Bag<E extends Comparable<E>> {
 
         root=null;
     }
+    
+    
+    
 
     public Bag(Node newNode)
     {
